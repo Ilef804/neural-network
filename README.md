@@ -1,4 +1,4 @@
 # neural-network
-ILEF MSADDAK 
-MPI A
+ilef msaddak       
+MPI A      
 neural network project
